@@ -1,0 +1,2 @@
+- Mario Saldinger <mariosaldinger@gmail.com> <sdi1400177@di.uoa.gr>
+- Theofilos-Iason Kantartzis <kantartzistheophilos@gmail.com> <sdi1400061@di.uoa.gr>
